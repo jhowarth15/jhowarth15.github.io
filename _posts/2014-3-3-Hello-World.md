@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: How My Startup Got Acquired After 6 Months
 ---
 
-Next you can update your akichow name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##I couldn’t find the service I needed, so I built it for myself. And that was the start.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
