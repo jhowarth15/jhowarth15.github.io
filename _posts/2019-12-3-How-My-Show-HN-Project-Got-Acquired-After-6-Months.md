@@ -3,7 +3,9 @@ layout: post
 title: How My Startup Got Acquired After 6 Months
 ---
 
-## I couldn’t find the service I needed, so I built it for myself. And that was the start.
+[Featured in Marker ![trennd-marker]({{ site.baseurl }}/images/Screenshot 2020-01-05 at 00.36.31.png)](https://marker.medium.com/how-my-show-hn-project-got-acquired-after-6-months-954f81ca6a18)
+
+_I couldn’t find the service I needed, so I built it for myself. And that was the start._
 
 ![How-My-Show-HN-Project-Got-Acquired-After-6-Months-Hero]({{ site.baseurl }}/images/1_dNYHIevehfo4Vw1nprlVBQ.jpeg)
 
