@@ -2,7 +2,7 @@
 layout: post
 title: How My Startup Got Acquired After 6 Months
 ---
-
+___
 <div>
   <a style="display: flex; align-items: center;" target="_blank" href="https://marker.medium.com/how-my-show-hn-project-got-acquired-after-6-months-954f81ca6a18">
     <h2 style="margin: auto 0px">Featured in:</h2>
