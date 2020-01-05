@@ -2,6 +2,11 @@
 layout: post
 title: How My Startup Got Acquired After 6 Months
 ---
+
+![How-My-Show-HN-Project-Got-Acquired-After-6-Months-Hero]({{ site.baseurl }}/images/1_dNYHIevehfo4Vw1nprlVBQ.jpeg)
+
+_That’s me (right!) at a Japanese temple for New Year’s. That dragon is supposed to give you luck :)_
+
 <div>
   <a style="display: flex; align-items: center;" target="_blank" href="https://marker.medium.com/how-my-show-hn-project-got-acquired-after-6-months-954f81ca6a18">
     <h2 style="margin: auto 0px">Featured in:</h2>
@@ -10,10 +15,6 @@ title: How My Startup Got Acquired After 6 Months
 </div>
 
 _I couldn’t find the service I needed, so I built it for myself. And that was the start._
-
-![How-My-Show-HN-Project-Got-Acquired-After-6-Months-Hero]({{ site.baseurl }}/images/1_dNYHIevehfo4Vw1nprlVBQ.jpeg)
-
-_That’s me (right!) at a Japanese temple for New Year’s. That dragon is supposed to give you luck :)_
 
 ### Short version
 
