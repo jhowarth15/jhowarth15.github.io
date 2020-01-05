@@ -3,7 +3,7 @@ layout: post
 title: How My Startup Got Acquired After 6 Months
 ---
 
-> I couldn’t find the service I needed, so I built it for myself. And that was the start.
+## I couldn’t find the service I needed, so I built it for myself. And that was the start.
 
 ![How-My-Show-HN-Project-Got-Acquired-After-6-Months-Hero]({{ site.baseurl }}/images/1_dNYHIevehfo4Vw1nprlVBQ.jpeg)
 
