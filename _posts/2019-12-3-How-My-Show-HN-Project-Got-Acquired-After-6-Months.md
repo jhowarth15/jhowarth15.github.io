@@ -5,12 +5,12 @@ title: How My Startup Got Acquired After 6 Months
 
 _I couldn’t find the service I needed, so I built it for myself. And that was the start._
 
-<div style="display: flex; align-items: center; ">
-  <h2>Featured in:</h2>
-  <a target="_blank" href="https://marker.medium.com/how-my-show-hn-project-got-acquired-after-6-months-954f81ca6a18">
+<a target="_blank" href="https://marker.medium.com/how-my-show-hn-project-got-acquired-after-6-months-954f81ca6a18">
+  <div style="display: flex; align-items: center; ">
+    <h2>Featured in:</h2>
     <img src="{{ site.baseurl }}/images/marker-logo.png" alt="trennd-marker" width="150px" />
-  </a>
-</div>
+  </div>
+</a>
 
 ![How-My-Show-HN-Project-Got-Acquired-After-6-Months-Hero]({{ site.baseurl }}/images/1_dNYHIevehfo4Vw1nprlVBQ.jpeg)
 
