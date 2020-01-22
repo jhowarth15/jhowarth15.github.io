@@ -4,6 +4,7 @@ title: How I Coded A Website Plugin Making $600 Per Month
 ---
 
 
+![How-I-Coded-A-Website-Plugin-Making-$600-Per-Month-Hero]({{ site.baseurl }}/images/open-uri20190313-4-1m8svpb.png)
 
 <div>
   <a style="display: flex; align-items: center;" target="_blank" href="https://www.starterstory.com/stories/how-i-coded-a-website-plugin-making-600-per-month">
