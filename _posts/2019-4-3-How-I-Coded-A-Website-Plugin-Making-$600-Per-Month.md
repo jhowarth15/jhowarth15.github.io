@@ -9,7 +9,7 @@ title: How I Coded A Website Plugin Making $600 Per Month
 <div>
   <a style="display: flex; align-items: center;" target="_blank" href="https://www.starterstory.com/stories/how-i-coded-a-website-plugin-making-600-per-month">
     <h2 style="margin: auto 0px">Featured in:</h2>
-    <img src="{{ site.baseurl }}/images/starter-story-logo.png" alt="trennd-marker" width="150px" />
+    <img src="{{ site.baseurl }}/images/starter-story-logo.png" alt="trennd-marker" width="150px" style="margin-left: 10px"/>
    </a>
 </div>
 
@@ -73,9 +73,9 @@ I increasingly find with other product/service websites that you sometimes can�
 
 Wheely Sales has subscription pricing with a 10-day free trial. The free trial is very effective since users get to see real results within days and can then justify the cost with the huge numbers of email subscribers they convert. I decided to price by the number of wheel views since this scales well with both the cost of serving the popup to more web visitors and also the value attained by the customer with more views/subscribers. There are three pricing tiers:
 
-- Small Business plan: $29/month for up 25,000 wheel views
-- Medium Business plan: $99/month for up 100,000 wheel views
-- Big Business plan: $299/month for unlimited wheel views
+- **Small Business plan:** $29/month for up 25,000 wheel views
+- **Medium Business plan:** $99/month for up 100,000 wheel views
+- **Big Business plan:** $299/month for unlimited wheel views
 
 My first paying customer was an absolute breeze - I woke up one morning with a payment confirmation email and that was it. It’s a really strange transition to selling a product rather than time. Where someone you’ve never met, spoken to or even messaged pays you (from Italy in this case) and you didn’t actively do anything for them specifically. Occasionally things go wrong though and my second customer wasn’t so smoothly acquired! After helping to onboard and install them on BigCommerce at midnight due to time differences, I had to quickly debug and fix the wheel in Firefox which looked like this...
 
@@ -124,7 +124,7 @@ Another big one is to always follow up with leads that have gone cold. You may t
 
 ### What have been the most influential books, podcasts, or other resources?
 
-I can honestly say that both IndieHackers.com and StarterStory.com have been tremendous for providing me real-life examples for inspiration, motivation & learning.
+I can honestly say that both [IndieHackers.com](https://www.indiehackers.com/) and [StarterStory.com](https://www.starterstory.com/) have been tremendous for providing me real-life examples for inspiration, motivation & learning.
 
 ### Advice for other entrepreneurs who want to get started or are just starting out?
 
