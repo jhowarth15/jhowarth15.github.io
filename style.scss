@@ -271,6 +271,18 @@ nav {
   }
 }
 
+.pressLinkContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+	
+  @include mobile {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
