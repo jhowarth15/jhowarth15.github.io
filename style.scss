@@ -281,8 +281,7 @@ nav {
   @include mobile {
     flex-direction: column;
     justify-content: center;
-    margin: auto;
-    margin-bottom: 40px;
+    margin: 0 auto 40px auto;
   }
 }
 
