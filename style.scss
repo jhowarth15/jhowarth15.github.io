@@ -276,10 +276,12 @@ nav {
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
+  margin-bottom: 40px;
 	
   @include mobile {
     flex-direction: column;
     justify-content: center;
+    margin: auto;
   }
 }
 
@@ -291,6 +293,11 @@ nav {
 
 .pressLinkH2 {
   margin: 1em 0;
+  font-size: 20px;
+
+  @include mobile {
+    text-align: center;	  
+  }
 }
 
 .wrapper-footer {
